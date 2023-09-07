@@ -71,8 +71,8 @@ We also have a legal responsibility to respect the licenses of work we use. When
 
 For example, see ["Licenses and attribution" in the U.S. Web Design Standards README](https://github.com/18F/web-design-standards#licenses-and-attribution). It starts with "A few parts of this project are not in the public domain", to prevent accidentally implying that all the project's files are in the public domain. It lists exceptions in this format: "The file *filename* is from *project name*, by *name of author* [or copyright *name of author*], under *name of license*." Then it has a section titled "The rest of this project is in the public domain", with the typical license information we put in READMEs. The project's [CONTRIBUTING file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/CONTRIBUTING.md) includes the same sections. The [LICENSE file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/LICENSE.md) has the same sections again, plus the full license text for some embedded works and our standard LICENSE information.
 
-## List the contact information for your team as well as where to ask questions.
+### List the contact information for your team as well as where to ask questions.
 
 This part of the repo should make it easy for users to get in touch with the team developing the project. This is also where you should list any listservs, chat programs, or social media groups that have been created to keep contributors informed.
 
-Any other information that you’d like to share with users can go in the Wiki section of your repository.
+Any other information that you’d like to share with users can go in the Wiki section of your repositorys.
