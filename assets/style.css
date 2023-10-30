@@ -16,7 +16,9 @@ main {
 }
 
 header {
-    background-color:grey;
+    background-color:darkblue;
+    margin-bottom: 40px;
+    padding: 20px 40px;
 }
 
 h1 {
