@@ -67,25 +67,25 @@ section#Work {
     padding-top: 150px;
 }
 
-.portfolio-items {
+.projects {
     display: flex;
     flex-wrap: wrap;
 }
 
-.portfolio-items article {
+.projects article {
     width: calc(50% - 40px);
     margin: 20px;
 }
 
-.portfolio-items article:first-child {
+.projects article:first-child {
     width: calc(100% - 40px);
 }
 
-.portfolio-items article img {
+.projects article img {
     width: 100%;
 }
 
-.portfolio-items article a {
+.projects article a {
     display: flex;
     width: 100%;
     aspect-ratio: 16/9;
@@ -96,7 +96,7 @@ section#Work {
     filter:blur(2px);
 }
 
-.portfolio-items article a:hover {
+.projects article a:hover {
     filter:blur(0);
 }
 
